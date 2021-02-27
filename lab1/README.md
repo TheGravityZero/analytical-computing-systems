@@ -1,1 +1,1 @@
-
+Запускать через SageMath NoteBook. 
